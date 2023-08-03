@@ -1,4 +1,9 @@
 # Fitness Website PHP
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://www.php.net/)
+[![SCSS](https://img.shields.io/badge/scss-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699)](https://sass-lang.com/)
+
 
 This project is a Fitness Website developed using PHP. It aims to provide various features for managing a fitness center's online presence and interactions with users. The website incorporates an admin page, homepage, login and registration functionality, logout feature, service management, customer forms, dynamic content for about and contact pages, and a dynamic website structure.
 
